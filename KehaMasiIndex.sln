@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KehaMasiIndex", "KehaMasiIndex.pyproj", "{DC3085BA-617E-4F82-97EF-3648E8F5608D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3085BA-617E-4F82-97EF-3648E8F5608D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3085BA-617E-4F82-97EF-3648E8F5608D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C9A559-0655-496E-B2FA-D2D009FA5C31}
+	EndGlobalSection
+EndGlobal
